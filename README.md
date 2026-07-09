@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m a third-year Computer Science student 🎓 focused on building strong problem-solving and analytical skills 🧠<br>Currently, I’m learning Data Structures & Algorithms using Java 💻 and exploring Data Analysis with Python 📊🐍 I enjoy working on practical projects, especially in domains like healthcare and safety systems 🚑<br>I have experience working with Python (Flask) ⚙️ and have built projects that aim to solve real-world problems 🌍<br>Alongside my technical journey, I’m also preparing for competitive exams 🎯 aiming to build a strong foundation in both computer science and analytical aptitude 📚<br>I’m actively looking for opportunities to learn, grow, and apply my skills in real-world environments 🚀
+# About Me:
+Hi, I’m a third-year Computer Science student 🎓 focused on building strong problem-solving and analytical skills <br>Currently, I’m learning Data Structures & Algorithms using Java 💻 and exploring Data Analysis with Python 📊 I enjoy working on practical projects, especially in domains like healthcare and safety systems <br>I have experience working with Python (Flask) and have built projects that aim to solve real-world problems <br>Alongside my technical journey, I’m also preparing for competitive exams aiming to build a strong foundation in both computer science and analytical aptitude <br>I’m actively looking for opportunities to learn, grow, and apply my skills in real-world environments 🚀
 
 
 ## 🌐 Socials:
